@@ -7,3 +7,14 @@ Not to be considered the best work that I've ever done; this is my first attempt
 - Chess.hs
 - PolygonArea.hs
 
+**HW2:**  
+- RegularExpressions.hs
+- SimpleFunctions.hs
+
+**HW3:**  
+- SearchTree.hs
+- Set.hs
+
+**HW4:**  
+- TreeLabelWithoutStateMonad.hs
+- TreeLabelWithStateMonad.hs
