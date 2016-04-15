@@ -19,4 +19,4 @@ Not to be considered the best work that I've ever done; this is my first attempt
 - TreeLabelWithoutStateMonad.hs
 - TreeLabelWithStateMonad.hs
 
-** Nobody ever said that I got a 100% on any of these XD **
+**Nobody ever said that I got a 100% on any of these XD**
